@@ -1,0 +1,10 @@
+form {
+  text-align: center;
+}
+
+.form {
+  border: 30px solid coral;
+  margin: 100px;
+  padding: 50px;
+  background-color: antiquewhite;
+}
